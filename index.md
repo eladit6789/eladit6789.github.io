@@ -50,4 +50,4 @@ I plan to continue investigating how ribosomal interactions regulate translation
 
 ## Contact
 
-Email: elad.itzhaki@weizmann.co.il
+Email: elad.itzhaki@weizmann.ac.il
